@@ -1,0 +1,20 @@
+# Tit for Tat
+
+> Tit for Tat is a mobile app for couples to track childcare fairly. It logs
+> morning and evening slots each day, shows a 6-month history at a glance, and
+> keeps both parents in sync automatically via iCloud. Currently in TestFlight beta.
+
+What it does:
+
+- Logs morning and evening childcare slots each day for each parent.
+- Displays a full 6-month history so both parents can see the split at a glance.
+- Syncs automatically between devices via iCloud — no account required.
+
+What it isn't: a general-purpose scheduling or calendar app. There are no reminders,
+no third-party sharing, and no server-side data storage.
+
+## Links
+
+- [Website and TestFlight beta](https://quux.ltd/apps/tit4tat)
+- [Support](https://quux.ltd/apps/tit4tat/support)
+- [Privacy policy](https://quux.ltd/apps/tit4tat/privacy)

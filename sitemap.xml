@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://quux.ltd/</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/swanger/</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/swanger/support</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/swanger/privacy</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/tit4tat/</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/tit4tat/support</loc>
+  </url>
+  <url>
+    <loc>https://quux.ltd/apps/tit4tat/privacy</loc>
+  </url>
+</urlset>

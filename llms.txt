@@ -1,0 +1,32 @@
+# Quux Ltd
+
+> Quux Ltd is a specialist software engineering consultancy. We help companies
+> build and scale API platforms, distributed systems, and developer tooling —
+> enabling engineering teams to ship reliable software and own their services
+> end to end.
+
+## What we specialise in
+
+- API & service architecture
+- Distributed & event-driven systems
+- Developer experience & internal tooling
+- Automated testing & continuous delivery
+- Observability & performance tuning
+- Cloud-native platforms (AWS, GCP, Kubernetes)
+- Engineer-led security
+
+## Clients
+
+Checkatrade, Komi, Eurostar, F1® Arcade, Gov.uk Defra
+
+## Contact
+
+- Email: hello@quux.ltd
+- Telephone: +44 7311 651016
+
+## Apps
+
+We also build consumer apps.
+
+- [Swanger](https://quux.ltd/apps/swanger/llms.txt) — native macOS app for viewing OpenAPI schemas
+- [Tit for Tat](https://quux.ltd/apps/tit4tat/llms.txt) — mobile app for tracking childcare fairly between parents
