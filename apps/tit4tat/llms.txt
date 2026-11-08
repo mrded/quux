@@ -2,7 +2,7 @@
 
 > Tit for Tat is a mobile app for any two people to split duties fairly. It logs
 > morning, day and evening slots, shows each year's history at a glance, and
-> keeps both partners in sync automatically via iCloud. Currently in TestFlight beta.
+> keeps both partners in sync automatically via iCloud. Available on the App Store.
 
 What it does:
 
@@ -15,6 +15,7 @@ no third-party sharing, and no server-side data storage.
 
 ## Links
 
-- [Website and TestFlight beta](https://quux.ltd/apps/tit4tat)
+- [App Store](https://apps.apple.com/gb/app/tit-for-tat/id6829557138)
+- [Website](https://quux.ltd/apps/tit4tat)
 - [Support](https://quux.ltd/apps/tit4tat/support)
 - [Privacy policy](https://quux.ltd/apps/tit4tat/privacy)
