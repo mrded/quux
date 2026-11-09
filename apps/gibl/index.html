@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gibl</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem auto;
+        max-width: 760px;
+        line-height: 1.6;
+        padding: 0 1rem;
+      }
+      h1, h2 {
+        margin-bottom: 0.4rem;
+      }
+      .screenshots {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin: 1.5rem 0;
+      }
+      .screenshots figure {
+        margin: 0;
+      }
+      .screenshots figcaption {
+        margin-top: 0.5rem;
+        font-size: 0.875rem;
+        color: #666;
+      }
+      img.screenshot {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+      }
+      footer {
+        margin-top: 3rem;
+        font-size: 0.875rem;
+        color: #666;
+      }
+      footer a {
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Gibl</h1>
+    <p>A craft beer journal for iPhone and iPad.</p>
+
+    <p>Log the beers you try, with a photo and your notes. Like or dislike each one, score 16 flavours, and see its flavour profile as a chart. Your beers sync between your devices via iCloud.</p>
+
+    <p>Requires iOS 18 or later. On your home screen, the app appears as Beer Notes.</p>
+
+    <p><a href="https://testflight.apple.com/join/Ev1AAqpV">Join the TestFlight beta</a></p>
+
+    <p>Already use the App Store version? The beta doesn't import your existing beers yet, so it starts with an empty list. It leaves your old data untouched so a later release can bring it across.</p>
+
+    <div class="screenshots">
+      <figure>
+        <img class="screenshot" src="screenshots/list-light.png" width="750" height="1333" loading="lazy"
+          alt="The beer list: each beer's label, name, brewery and style, with one row swiped to show Share and Delete" />
+        <figcaption>Keep every beer you've tried in one list.</figcaption>
+      </figure>
+      <figure>
+        <img class="screenshot" src="screenshots/review-light.png" width="640" height="1136" loading="lazy"
+          alt="The review screen: a slider for each flavour, including alcohol, citrus fruit, hoppy and floral" />
+        <figcaption>Score each flavour with a slider.</figcaption>
+      </figure>
+      <figure>
+        <img class="screenshot" src="screenshots/details-light.png" width="640" height="1136" loading="lazy"
+          alt="A beer's details: its label, name, brewery and style, above a radar chart of its flavours" />
+        <figcaption>See a beer's flavours at a glance.</figcaption>
+      </figure>
+    </div>
+
+    <p>Screenshots are from an earlier version of the app.</p>
+
+    <footer>
+      <a href="privacy">Privacy Policy</a> &middot;
+      <a href="support">Support</a>
+    </footer>
+  </body>
+</html>

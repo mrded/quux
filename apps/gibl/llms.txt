@@ -1,0 +1,23 @@
+# Gibl
+
+> Gibl is a craft beer journal for iPhone and iPad. It logs the beers you try, with a
+> photo, notes and flavour scores, and syncs them between your devices via iCloud.
+> It needs iOS 18 or later, appears on the home screen as Beer Notes, and is in beta on TestFlight.
+
+What it does:
+
+- Logs each beer's name, brewery, style, ABV, IBU, notes and one photo.
+- Records a like or dislike, and scores 16 flavours from 0 to 100.
+- Shows each beer's flavours as a radar chart.
+- Sorts the list by best, worst, strongest, weakest or name.
+- Syncs automatically between devices via iCloud — no sign-up required.
+
+What it isn't: a beer database or a social network. There's no beer search, no sharing,
+and no server-side data storage. The beta doesn't import beers from the App Store version yet.
+
+## Links
+
+- [TestFlight beta](https://testflight.apple.com/join/Ev1AAqpV)
+- [Website](https://quux.ltd/apps/gibl)
+- [Support](https://quux.ltd/apps/gibl/support)
+- [Privacy policy](https://quux.ltd/apps/gibl/privacy)

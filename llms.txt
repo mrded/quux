@@ -30,3 +30,4 @@ We also build consumer apps.
 
 - [Swanger](https://quux.ltd/apps/swanger/llms.txt) — native macOS app for viewing OpenAPI schemas
 - [Tit for Tat](https://quux.ltd/apps/tit4tat/llms.txt) — mobile app for tracking childcare fairly between parents
+- [Gibl](https://quux.ltd/apps/gibl/llms.txt) — craft beer journal for iPhone and iPad
