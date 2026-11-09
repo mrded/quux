@@ -9,6 +9,7 @@ What it does:
 - Logs each beer's name, brewery, style, ABV, IBU, notes and one photo.
 - Records a like or dislike, and scores 16 flavours from 0 to 100.
 - Shows each beer's flavours as a radar chart.
+- Includes an illustrated guide to tasting beer: look, twirl, smell, taste.
 - Sorts the list by best, worst, strongest, weakest or name.
 - Syncs automatically between devices via iCloud — no sign-up required.
 - Works offline. If iCloud is unavailable, new entries are saved on the device.
