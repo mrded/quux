@@ -11,6 +11,8 @@ What it does:
 - Shows each beer's flavours as a radar chart.
 - Sorts the list by best, worst, strongest, weakest or name.
 - Syncs automatically between devices via iCloud — no sign-up required.
+- Works offline. If iCloud is unavailable, new entries are saved on the device.
+- Has no ads.
 
 What it isn't: a beer database or a social network. There's no beer search, no sharing,
 and no server-side data storage. The beta doesn't import beers from the App Store version yet.
