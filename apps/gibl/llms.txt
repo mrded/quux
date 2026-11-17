@@ -20,7 +20,7 @@ and no server-side data storage. The beta doesn't import beers from the App Stor
 
 ## Links
 
-- [TestFlight beta](https://testflight.apple.com/join/Ev1AAqpV)
+- [App Store](https://apps.apple.com/us/app/craft-beer-notes/id966030322)
 - [Website](https://quux.ltd/apps/gibl)
 - [Support](https://quux.ltd/apps/gibl/support)
 - [Privacy policy](https://quux.ltd/apps/gibl/privacy)
